@@ -1,0 +1,12 @@
+# parte principal do programa
+1 - obter dia da semana e horas
+2 - acessar a base de dados
+3 - a aula correspondente e imprimir os dados
+    3.1 - caso não tenha aula, informar
+
+# base de dados
+1 - criar a base de dados
+2 - criar a tabela Horario com a estrutura (diaDaSemana, NomeDisciplina, HoraInicio, HoraFim, IdSala)
+3 - criar método de consulta de dados
+
+
