@@ -9,7 +9,4 @@
 
 <h4>Install pyperclip</h4>
 <p>First, make sure you have python installed in your computer, and then open you cmd/terminal run the command below: </p>
-<h5>Windows</h5>
-<code>pip install pyperclip</code>
-<h5>Linux</h5>
-<code>pip install pyperclip</code>
+<code>pip3 install pyperclip</code>
